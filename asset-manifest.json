@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/merodii/static/css/main.0d4a0dce.css",
-    "main.js": "/merodii/static/js/main.edb9fd36.js",
+    "main.js": "/merodii/static/js/main.cc6cbdc5.js",
     "static/js/787.293c0055.chunk.js": "/merodii/static/js/787.293c0055.chunk.js",
     "index.html": "/merodii/index.html",
     "main.0d4a0dce.css.map": "/merodii/static/css/main.0d4a0dce.css.map",
-    "main.edb9fd36.js.map": "/merodii/static/js/main.edb9fd36.js.map",
+    "main.cc6cbdc5.js.map": "/merodii/static/js/main.cc6cbdc5.js.map",
     "787.293c0055.chunk.js.map": "/merodii/static/js/787.293c0055.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0d4a0dce.css",
-    "static/js/main.edb9fd36.js"
+    "static/js/main.cc6cbdc5.js"
   ]
 }
