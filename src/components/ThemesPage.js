@@ -42,7 +42,7 @@ function ThemesPage(props) {
           {webthemes.map((item) => (
             <ImageListItem key={item.thumbnail}>
               <img
-                src={`${item.thumbnail}?w=100&h=100&fit=crop&auto=format`}
+                src={`/merodii/${item.thumbnail}?w=100&h=100&fit=crop&auto=format`}
                 alt={item.title}
               />
               {/* handleThemeChange passes the new theme ID back to the parent, App.js */}
