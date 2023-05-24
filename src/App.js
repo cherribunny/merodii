@@ -77,7 +77,7 @@ function App() {
 
       {/* display Spotify playlist and list of sounds, accessible from any page */}
       <div className={classes.soundPanel}>
-        <iframe src="https://open.spotify.com/embed/user/animegirl4lyfe/playlist/6ezGrT6YwKjsYWmpRM6hEK" width="300" height="330" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        <iframe src="https://open.spotify.com/embed/user/animegirl4lyfe/playlist/6ezGrT6YwKjsYWmpRM6hEK" width="300" height="360" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
         <Sounds webtheme={webtheme} />
       </div>
     </div>

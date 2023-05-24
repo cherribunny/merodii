@@ -7,7 +7,7 @@ const useStyles = makeStyles((theme) => ({
   root: {
     // minWidth: '50%',
     width: '100%',
-    height: '330px',
+    height: '360px',
     background: props => props.webtheme.color + '80',
     display: 'flex',
     // flexDirection: 'row',
