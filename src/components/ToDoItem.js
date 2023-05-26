@@ -6,7 +6,7 @@ import ToDoForm from './ToDoForm';
 import CloseIcon from '@mui/icons-material/Close';
 
 import UIfx from 'uifx';
-const todoSound = new UIfx("https://github.com/sarahli10/merodii-audio/blob/master/TodoSound.mp3?raw=true", {volume: 0.5 });
+const todoSound = new UIfx("https://github.com/cherribunny/merodii-audio/blob/master/TodoSound.mp3?raw=true", {volume: 0.5 });
 
 const useStyles = makeStyles((theme) => ({
   smallIcon: {

@@ -10,7 +10,7 @@ import PauseIcon from '@mui/icons-material/Pause';
 
 // for playing UI sounds
 import UIfx from 'uifx';
-const snackbarSound = new UIfx("https://github.com/sarahli10/merodii-audio/blob/master/SnackbarSound.mp3?raw=true", {volume: 0.5 });
+const snackbarSound = new UIfx("https://github.com/cherribunny/merodii-audio/blob/master/SnackbarSound.mp3?raw=true", {volume: 0.5 });
 
 const useStyles = makeStyles((theme) => ({
     root: {
