@@ -71,13 +71,13 @@ const webthemes = [
     },
     {
         id: 7,
-        title: 'Howl\'s Moving Castle',
+        title: 'Totoro',
         bg: `url(${process.env.PUBLIC_URL + "/assets/backgrounds/7.gif"})`,
         thumbnail: "/assets/thumbnails/7.gif",
-        color: '#58C0D0',
+        color: '#299164',
         textColor: '#FFF',
-        quote: ' "They say that the best blaze burns brightest, when circumstances are at their worst."',
-        author: '- Sophie Hatter, Howl\'s Moving Castle'
+        quote: ' "Try Laughing. Then Whatever Scares You Will Go Away."',
+        author: '- Tatsuo, My Neighbor Totoro'
     },
     {
         id: 8,
